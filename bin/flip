@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+system "git grep -n '#{ARGV[0]}'"
